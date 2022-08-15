@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sarpexioglu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML/C#
 - 📫 How to reach me meksioglu@hotmail.com
